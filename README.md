@@ -16,4 +16,4 @@ Suka eksplorasi dunia keamanan siber, jaringan, dan pemodelan statistik!
 ![Kisanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisanak&show_icons=true&theme=radical)
 
 ## 🔗 Find Me Elsewhere
-[LinkedIn](https://linkedin.com/in/namamu) • [Medium](https://medium.com/@namamu)
+[LinkedIn](https://linkedin.com/in/himawan-az) • [Medium](https://medium.com/@himawan_azmi)
