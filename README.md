@@ -13,7 +13,7 @@ Suka eksplorasi dunia keamanan siber, jaringan, dan pemodelan statistik!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-![Kisanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=himawanTIF&show_icons=true&theme=ambient_gradient)
+![Kisanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=himawanTIF&show_icons=true&theme=solarized_dark)
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=himawanTIF&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
