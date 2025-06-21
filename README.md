@@ -3,9 +3,9 @@
 Saya seorang tech researcher, open-source contributor, dan DevOps enthusiast dari Indonesia 🇮🇩.  
 Suka eksplorasi dunia keamanan siber, jaringan, dan pemodelan statistik!
 
-- 🔭 Saat ini sedang fokus pada: Eduroam adoption, server hardening, dan PLS-SEM
-- 🌱 Sedang belajar: Ansible, Terraform, dan cloud automation
-- 📫 Email saya: nama@email.com
+- 🔭 Saat ini sedang fokus pada: -
+- 🌱 Sedang belajar: -
+- 📫 Email saya: -
 
 ## 🚀 Tools & Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
