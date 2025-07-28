@@ -16,10 +16,10 @@ Suka eksplorasi dunia keamanan siber, jaringan, dan pemodelan statistik!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-![Himawan GitHub stats](https://github-readme-stats.vercel.app/api?username=himawanTIF&show_icons=true&theme=react)
+![Himawan GitHub stats](https://github-readme-stats.vercel.app/api?username=himawanTIF&show_icons=true&theme=nord)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=himawanTIF&theme=discord)
+![trophy](https://github-profile-trophy.vercel.app/?username=himawanTIF&theme=nord&row=1&column=7)
 
 ## 🔗 Find Me Elsewhere
 [LinkedIn](https://linkedin.com/in/himawan-az) • [Medium](https://medium.com/@himawan_azmi)
