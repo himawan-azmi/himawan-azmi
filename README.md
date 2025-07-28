@@ -19,7 +19,7 @@ Suka eksplorasi dunia keamanan siber, jaringan, dan pemodelan statistik!
 ![Himawan GitHub stats](https://github-readme-stats.vercel.app/api?username=himawanTIF&show_icons=true&theme=react)
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=himawanTIF&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=himawanTIF&theme=discord)
 
 ## 🔗 Find Me Elsewhere
 [LinkedIn](https://linkedin.com/in/himawan-az) • [Medium](https://medium.com/@himawan_azmi)
